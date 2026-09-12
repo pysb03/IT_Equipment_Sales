@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes IT equipment sales data to understand overall business performance across sales, products, customers, and employees.
 
@@ -14,7 +14,7 @@ The project uses **Microsoft Excel** for data preparation, validation, calculati
 
 ---
 
-## 🎯 Business Questions
+## Business Questions
 
 The analysis was designed around the following business questions:
 
@@ -31,7 +31,7 @@ The analysis was designed around the following business questions:
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 
 The dataset contains sales transactions and supporting information related to products, customers, employees, employee performance, and operating costs.
 
@@ -48,7 +48,7 @@ The dataset contains sales transactions and supporting information related to pr
 
 ---
 
-## 🧹 Data Preparation
+## Data Preparation
 
 Data preparation focused on **checking data quality, correcting inconsistent values, validating calculations, and combining related tables** before performing the analysis.
 
@@ -91,7 +91,7 @@ Additional fields were created to support the analysis:
 
 ---
 
-## 🔎 Analysis Approach
+## Analysis Approach
 
 The analysis was divided into several areas to answer the business questions and evaluate business performance from different perspectives.
 
@@ -164,7 +164,7 @@ This helps understand how bonus costs are distributed and which employees or dep
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 The Power BI dashboard provides an interactive view of the analysis across four main areas.
 
@@ -201,7 +201,7 @@ Key insights from the analysis include:
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 ### Tools
 
@@ -226,21 +226,23 @@ Key insights from the analysis include:
 
 ---
 
-## 📁 Project Structure
+## Dashboard
 
-```text
-IT_Equipment_Sales/
-│
-├── README.md
-│
-├── Data/
-│   └── IT_Equipment_Sales_Analysis.xlsx
-│
-├── Dashboard/
-│   └── IT_Equipment_Sales_Dashboard.pbix
-│
-└── Images/
-    ├── 01_Sales_Overview.png
-    ├── 02_Product_Analysis.png
-    ├── 03_Customer_Analysis.png
-    └── 04_Employee_Performance.png
+The final dashboard provides an overview of:
+
+### Sales Overview
+<img width="1346" height="759" alt="image" src="https://github.com/user-attachments/assets/781cb1b3-3a57-4e27-a31b-da29354b28d7" />
+
+### Customer
+<img width="1349" height="762" alt="image" src="https://github.com/user-attachments/assets/08c7ee57-1003-47b6-b997-58ebbb300fb0" />
+
+### Product
+<img width="1343" height="756" alt="image" src="https://github.com/user-attachments/assets/15050a40-18a9-4011-9ce7-c45e38a22b12" />
+
+### Customer
+<img width="1346" height="761" alt="image" src="https://github.com/user-attachments/assets/03e6cbb9-a4d0-4642-b787-fa3bc09f1c89" />
+
+---
+
+
+
