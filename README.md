@@ -226,6 +226,10 @@ Key insights from the analysis include:
 
 ---
 
+> **Note:** This project uses a simulated dataset created specifically for Data Analyst practice and portfolio development. The dataset and business scenarios were designed to simulate a real-world business environment and provide hands-on experience across the end-to-end data analysis workflow, from data cleaning and transformation to KPI development, analysis, and dashboard creation using Excel and Power BI.
+
+---
+
 ## Dashboard
 
 The final dashboard provides an overview of:
